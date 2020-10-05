@@ -1,0 +1,8 @@
+{
+  "name": "adadeprogrammer",
+  "description": "A nodejs app",
+  "repository": "https://github.com/zark28/adadeprogrammer",
+  "logo": "",
+  "keywords": ["node", "heroku"],
+  "image": "heroku/nodejs"
+}
